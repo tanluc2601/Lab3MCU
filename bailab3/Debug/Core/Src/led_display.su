@@ -1,0 +1,6 @@
+led_display.c:10:6:display7SEG	16	static
+led_display.c:58:6:update7SEG	16	static
+led_display.c:62:6:updateClockBuffer	4	static
+led_display.c:87:6:led_blink_mode	8	static
+led_display.c:107:6:init_g_y	4	static
+led_display.c:110:6:MODE1_display	8	static

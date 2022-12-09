@@ -1,0 +1,6 @@
+global.c:25:6:setTimer0	16	static
+global.c:30:6:setTimer1	16	static
+global.c:35:6:setTimer2	16	static
+global.c:40:6:timer_run	4	static
+global.c:55:6:display7SEG0	16	static
+global.c:159:6:display7SEG1	16	static

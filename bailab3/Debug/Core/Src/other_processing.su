@@ -1,0 +1,4 @@
+other_processing.c:6:6:fsm_blinking_led	8	static
+other_processing.c:40:6:fsm_display_7SEG	8	static
+other_processing.c:67:6:fsm_modify_mode	4	static
+other_processing.c:74:6:fsm_traffic_light	8	static
